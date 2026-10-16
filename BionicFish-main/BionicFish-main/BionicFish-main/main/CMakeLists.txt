@@ -1,0 +1,2 @@
+﻿idf_component_register(SRCS "fish_control.c" "fish_motion.c" "fish_servo.c" "bmi270_driver.c" "software_i2c.c" "bmi270.c" "bmi2.c" "ph_sensor.c" "wifi_connector.c" "cloud_client.c" "local_server.c" "main.c"
+                    INCLUDE_DIRS ".")
